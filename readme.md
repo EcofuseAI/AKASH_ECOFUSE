@@ -5,7 +5,7 @@
   <em>Your One-Stop Solution for Effortless Cloud Deployment on the Akash Network!</em>
 </p>
 
-![Akash AutoDeployer Logo](your-logo-url-here.png)
+![Akash AutoDeployer Logo](https://res.cloudinary.com/brandpad/image/upload/c_scale,dpr_auto,f_auto,w_1280/v1676479576/20908/akash-logo-print)
 
 <p align="center">
   <a href="http://34.131.239.28/Auto_deployer">Live Demo</a>
